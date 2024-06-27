@@ -10,6 +10,14 @@ This Python program implements a basic firewall using socket programming. The fi
 - **Packet Filtering**: Implements simple filtering logic to allow connections only from specified IP addresses and ports.
 - **Logging**: Outputs connection events and filtering decisions to standard output for monitoring and debugging purposes.
 
+## Acknowledgments
+
+Special thanks to Syed Farheen for their assistance and collaboration in developing this firewall project. Their insights and support were invaluable in shaping the implementation and ensuring its functionality.
+
+## Contributing
+
+Contributions from Syed Farheen were crucial to the development of this project.
+
 ## Requirements
 
 - Python 3.x
